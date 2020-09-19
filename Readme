@@ -1,0 +1,2 @@
+These images are created after passing the current of the power system faults simulated in an IEEE-9 Bus system to the Stockwell transform(ST) algorithm. 
+The obtained ST images are then split into three channels i.e. Red, Green and Blue which are stored in .dat format. 
